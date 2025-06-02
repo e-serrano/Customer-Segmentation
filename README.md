@@ -52,4 +52,6 @@ pip install -r requirements.txt
 This project is licensed under the MIT License.
 
 ## 👤 Author
-Enrique Serrano García
+**Enrique Serrano García**
+[LinkedIn](https://www.linkedin.com/in/enrique-serrano-garcia)  
+[Email](mailto:e.serranogar@gmail.com)
