@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 This project focuses on the segmentation of a company's customers based on their purchasing behavior.
+
 The objective is to identify distinct customer profiles using historical order data.
 
 Segmentation is based on:
@@ -53,5 +54,6 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 **Enrique Serrano García**
+
 [LinkedIn](https://www.linkedin.com/in/enrique-serrano-garcia)  
 [Email](mailto:e.serranogar@gmail.com)
